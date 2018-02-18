@@ -10,3 +10,5 @@ Use:
 2. Load all messages (hold scroll wheel and move to the top of the convo)
 3. Run script in the web console
 4. Copy data
+
+![graph](https://i.imgur.com/EqunVfx.png)
